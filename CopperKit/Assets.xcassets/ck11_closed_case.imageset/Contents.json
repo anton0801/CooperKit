@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ck11_closed_case.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

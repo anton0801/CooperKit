@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ck12_service_tray.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

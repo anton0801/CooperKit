@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ck08_tool_roll.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
