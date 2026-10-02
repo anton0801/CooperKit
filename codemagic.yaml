@@ -13,8 +13,8 @@ workflows:
         APP_STORE_CONNECT_KEY: key
         APP_STORE_APPLE_ID: 6818503329
         BUNDLE_ID: "copper.kit.application.tool"
-        XCODE_PROJECT: "CooperKit.xcodeproj"
-        XCODE_SCHEME: "CooperKit"
+        XCODE_PROJECT: "CopperKit.xcodeproj"
+        XCODE_SCHEME: "CopperKit"
     scripts:
       - name: Clean and Resolve SPM Dependencies
         script: |
